@@ -17,5 +17,3 @@ const sendWelcomeEmail = (email, name) => {
 module.exports = {
   sendWelcomeEmail,
 };
-
-// SG.VijUSOHYQbqVClRP - fcYvQ.lfllZdt - oY6EjGEY0NACWf - QcotLiyUv9gCFFTMAy1Q;
